@@ -9,16 +9,16 @@
 
 | Resource | Link |
 |----------|------|
-| 🎬 Loom Video Walkthrough | `<!-- ADD YOUR LOOM LINK HERE -->` |
-| 📁 Google Drive Folder | `<!-- ADD YOUR DRIVE FOLDER LINK HERE -->` |
-| 🚀 Open in Colab | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/ddr-report-generator/blob/main/ddr_report_generator.ipynb) |
+| 🎬 Loom Video Walkthrough |https://drive.google.com/file/d/1_EFwqEw_8VyGscZcm5zxkz8g1c6bawco/view?usp=drive_link |
+| 📁 Google Drive Folder | `https://drive.google.com/drive/folders/1xHzw92pzMejoul5QqB8lWha9coDcuAQs?usp=drive_link |
+| 🚀 Open in Colab | [![Open In Colab](https://colab.research.google.com/gist/Sunkeerth/5968295a970ee5dc81369b6ab82a03ea/ddr_report_generator_free.ipynb)] |
 
 > 📸 **Screenshots**
 
 <!-- Add your screenshots below -->
 | Input PDFs | Generated DDR Report |
 |------------|----------------------|
-| ![Input](screenshots/input_pdfs.png) | ![Output](screenshots/ddr_output.png) |
+| ![Input](Ddr01.png) | ![Output](Ddr02.png) |
 
 ---
 
